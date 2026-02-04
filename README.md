@@ -95,7 +95,7 @@ me.introduce()
 
 ## 🌟 Featured Projects
 
-### 🎵 [SetMaster Pro Mobile App](https://github.com/michaeldesjardins) 
+### 🎵 [SetMaster Pro Mobile App](https://github.com/MichaelDesjardins74/SetMaster-Pro-) 
 *React Native • Expo • JavaScript • In Progress*
 
 Mobile app for live musicians to organize setlists, display lyrics, and trigger backing tracks.
