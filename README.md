@@ -22,7 +22,6 @@ class AboutMe:
         
         self.current_projects = {
             "SetMaster Pro": "Mobile app + custom IoT device for live performers",
-            "Web3 Learning": "Completing Chainlink bootcamps & exploring DeFi",
             "Research": "AI-assisted failure detection at UMaine ASCC"
         }
         
