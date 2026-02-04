@@ -112,21 +112,21 @@ Custom hardware performance assistant for musicians with lyrics display and hard
 - Currently integrating UI software with hardware controls for seamless operation
 
 ### ⛓️ Chainlink CCIP Bootcamp
-*Solidity • Hardhat • Web3* | [NFT of Completion](https://certificates.chainlinklabs.io/)
+*Solidity • Hardhat • Web3* | [NFT of Completion](https://collectors.poap.xyz/token/7203324)
 
 Learned Cross-Chain Interoperability Protocol (CCIP) for sending tokens and data across blockchains.
 
 ### 💎 Chainlink Tokenized RWA Bootcamp
-*Blockchain • Smart Contracts* | [NFT of Completion](https://certificates.chainlinklabs.io/)
+*Blockchain • Smart Contracts* | [NFT of Completion](https://collectors.poap.xyz/token/7250949)
 
 Learned to create and enrich tokenized real-world assets (RWAs) and maximize their potential.
 
-### 🎮 [Classic Pong Game](https://github.com/michaeldesjardins/pong)
+### 🎮 [Classic Pong Game](https://github.com/MichaelDesjardins74/PongGame/blob/main/Pong-3.py)
 *Python • Turtle Library*
 
 Fully functional Pong game with keyboard/mouse controls, AI opponents, and dynamic difficulty.
 
-### 🎵 [Spotify Database](https://github.com/michaeldesjardins/spotify-db)
+### 🎵 [Spotify Database](https://github.com/MichaelDesjardins74/SpotifyDatabase)
 *SQL Server*
 
 Relational database simulating Spotify features including user accounts, artists, and catalog management.
@@ -160,9 +160,9 @@ Relational database simulating Spotify features including user accounts, artists
 
 ## 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeldesjardins74&show_icons=true&theme=tokyonight)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelDesjardins74&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldesjardins74&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDesjardins74&layout=compact&theme=tokyonight)
 
 ---
 
@@ -179,7 +179,7 @@ Relational database simulating Spotify features including user accounts, artists
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-desjardins-9707a4256)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaeldesjardins74@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaeldesjardins74)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MichaelDesjardins74)
 
 📍 **Location:** Brewer, Maine  
 📧 **Email:** michaeldesjardins74@gmail.com  
@@ -189,7 +189,7 @@ Relational database simulating Spotify features including user accounts, artists
 
 ### 💡 Fun Facts About Me
 
-- 🎸 Audio engineer with a passion for live music technology
+- 🎸 Audio engineer and Musician with music out on all platforms
 - 🐕 Pet waste removal entrepreneur (yes, really!)
 - ⛓️ Web3 enthusiast exploring the future of decentralized tech
 - 🔧 Love building things with my hands — from code to 3D-printed enclosures
@@ -200,4 +200,4 @@ Relational database simulating Spotify features including user accounts, artists
 
 ⭐ *"From blockchain to embedded systems — I love building things that bridge the digital and physical worlds."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=michaeldesjardins74&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MichaelDesjardins74&color=blueviolet&style=flat-square)
