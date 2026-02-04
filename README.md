@@ -8,7 +8,7 @@
 class AboutMe:
     def __init__(self):
         self.name = "Michael Desjardins"
-        self.role = "Software Development Student"
+        self.role = "Aspiring Software Developer"
         self.location = "Brewer, Maine"
         self.university = "Husson University"
         self.gpa = 3.88
