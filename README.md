@@ -158,14 +158,6 @@ Relational database simulating Spotify features including user accounts, artists
 
 ---
 
-## 📊 GitHub Stats
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelDesjardins74&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelDesjardins74&layout=compact&theme=tokyonight)
-
----
-
 ## 🔨 Currently Working On
 
 - 🎵 **SetMaster Pro** — Finalizing mobile app UI and integrating with IoT hardware device
