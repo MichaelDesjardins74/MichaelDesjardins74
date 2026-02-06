@@ -14,7 +14,6 @@ class AboutMe:
         self.gpa = 3.88
         
         self.passions = [
-            "Building cross-chain Web3 applications",
             "Creating IoT devices that solve real problems",
             "Developing tools for live musicians and performers",
             "Bringing ideas from concept to working prototype"
